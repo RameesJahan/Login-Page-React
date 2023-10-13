@@ -1,0 +1,21 @@
+# Login Page | React + Vite
+
+This is a Login Page that created using [React](https://react.dev) + [Vite](https://vite.dev) and [Tailwind CSS](https://tailwindcss.com/) 
+
+## Preview
+
+![Screenshot]()
+
+## Development Setup 
+
+```
+git clone [this repository]
+cd [repository name]
+npm install
+```
+
+Its time to run on localhost:
+
+```
+npm run dev
+```
