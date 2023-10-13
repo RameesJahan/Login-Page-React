@@ -3,7 +3,8 @@
 This is a Login Page that created using [React](https://react.dev) + [Vite](https://vite.dev) and [Tailwind CSS](https://tailwindcss.com/) 
 
 ## Preview
-
+#### [Live Preview](https://rameesjahan.me/Login-Page-React/)
+### Screenshot
 ![Screenshot](https://raw.githubusercontent.com/RameesJahan/Login-Page-React/main/screenshot-1.jpg)
 
 ## Development Setup 
