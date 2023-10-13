@@ -4,7 +4,7 @@ This is a Login Page that created using [React](https://react.dev) + [Vite](http
 
 ## Preview
 
-![Screenshot]()
+![Screenshot](https://raw.githubusercontent.com/RameesJahan/Login-Page-React/main/screenshot-1.jpg)
 
 ## Development Setup 
 
